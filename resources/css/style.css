@@ -1,7 +1,49 @@
-h1 {
+body {
+background-color: black;
+  text-align: center;
+}
+
+.title {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+h4 {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.second {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#phone {
+  padding-top: 10px;
+}
+
+.last {
+  font-family: Verdana;
+  font-weight: 400;
+  font-size: 42px;
+  color: white;
+}
+
+footer {
+  font-family: Verdana;
+  text-align: right;
+  font-weight: 500;
+  font-size: 22px;
+  color: gray;
 }
