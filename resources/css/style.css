@@ -3,6 +3,7 @@ background-color: black;
   text-align: center;
 }
 
+/*The first hading */
 .title {
   font-family: Verdana;
   font-weight: normal;
@@ -29,10 +30,12 @@ h2 {
   color: gray;
 }
 
+/*Space between images*/
 #phone {
   padding-top: 10px;
 }
 
+/*The last heading*/
 .last {
   font-family: Verdana;
   font-weight: 400;
